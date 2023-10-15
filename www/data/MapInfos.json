@@ -1,0 +1,18 @@
+[
+null,
+{"id":1,"expanded":true,"name":"MAP001","order":1,"parentId":0,"scrollX":601.3333333333334,"scrollY":1982},
+{"id":2,"expanded":true,"name":"普通城镇","order":2,"parentId":1,"scrollX":816,"scrollY":624},
+{"id":3,"expanded":false,"name":"别墅 1F","order":4,"parentId":2,"scrollX":601.3333333333334,"scrollY":415.3333333333333},
+{"id":4,"expanded":true,"name":"郊区","order":6,"parentId":1,"scrollX":956,"scrollY":1520},
+{"id":5,"expanded":true,"name":"贸易城市","order":9,"parentId":1,"scrollX":1462.6666666666667,"scrollY":582},
+{"id":6,"expanded":true,"name":"大厦","order":7,"parentId":4,"scrollX":677.3333333333334,"scrollY":848.6666666666666},
+{"id":7,"expanded":true,"name":"MAP007","order":10,"parentId":5,"scrollX":612,"scrollY":415.3333333333333},
+{"id":8,"expanded":false,"name":"城堡 2F","order":3,"parentId":2,"scrollX":1366.6666666666667,"scrollY":1035.3333333333333},
+{"id":9,"expanded":false,"name":"MAP009","order":11,"parentId":5,"scrollX":612,"scrollY":415.3333333333333},
+{"id":10,"expanded":false,"name":"办公室 1F","order":12,"parentId":5,"scrollX":669.3333333333334,"scrollY":875.3333333333334},
+{"id":11,"expanded":true,"name":"漂浮城市","order":13,"parentId":1,"scrollX":1020,"scrollY":1018},
+{"id":12,"expanded":false,"name":"学校大厅","order":5,"parentId":2,"scrollX":601.3333333333334,"scrollY":411.3333333333333},
+{"id":13,"expanded":false,"name":"大房子 2F","order":8,"parentId":4,"scrollX":601.3333333333334,"scrollY":742},
+null,
+{"id":15,"expanded":false,"name":"转移大厅","order":14,"parentId":11,"scrollX":601.3333333333334,"scrollY":544.6666666666666}
+]
